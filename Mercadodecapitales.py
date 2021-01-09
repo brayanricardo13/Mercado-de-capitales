@@ -1,4 +1,7 @@
-print("hello")
+"""Created on Thu Oct  1 11:25:59 2020
+graficar acciones el ipc y otras acciones 
+@author: brayan ricardo fonseca
+"""
 import yfinance as yf
 import pandas as pd 
 import statsmodels.api as sm
